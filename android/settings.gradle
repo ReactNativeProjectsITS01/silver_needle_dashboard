@@ -1,0 +1,3 @@
+rootProject.name = 'silver_needle_dashboard'
+
+include ':app'
